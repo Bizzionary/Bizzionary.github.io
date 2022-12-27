@@ -212,7 +212,7 @@ h6 {
   .nav-menu a span,
   .nav-menu a:focus span {
     display: none;
-    color: FC0FC0;
+    color: #FC0FC0;
   }
 }
 
