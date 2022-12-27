@@ -522,9 +522,9 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Resume
+# Schedule
 --------------------------------------------------------------*/
-.resume .resume-title {
+.schedule .schedule-title {
   font-size: 26px;
   font-weight: 700;
   margin-top: 20px;
@@ -532,45 +532,45 @@ section {
   color: #45505b;
 }
 
-.resume .resume-item {
+.schedule .schedule-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #0563bb;
+  border-left: 2px solid #FC0FC0;
   position: relative;
 }
 
-.resume .resume-item h4 {
+.schedule .schedule-item h4 {
   line-height: 18px;
   font-size: 18px;
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #0563bb;
+  color: #FC0FC0;
   margin-bottom: 10px;
 }
 
-.resume .resume-item h5 {
+.schedule .schedule-item h5 {
   font-size: 16px;
-  background: #f7f8f9;
+  background: #FC0FC0;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
   margin-bottom: 10px;
 }
 
-.resume .resume-item ul {
+.schedule .schedule-item ul {
   padding-left: 20px;
 }
 
-.resume .resume-item ul li {
+.schedule .schedule-item ul li {
   padding-bottom: 10px;
 }
 
-.resume .resume-item:last-child {
+.schedule .schedule-item:last-child {
   padding-bottom: 0;
 }
 
-.resume .resume-item::before {
+.schedule .schedule-item::before {
   content: "";
   position: absolute;
   width: 16px;
@@ -578,7 +578,7 @@ section {
   border-radius: 50px;
   left: -9px;
   top: 0;
-  background: #000000;
+  background: #FC0FC0;
   border: 2px solid #0563bb;
 }
 
