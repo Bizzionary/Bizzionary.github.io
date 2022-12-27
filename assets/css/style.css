@@ -1205,8 +1205,8 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #FC0FC0;
-  color: #000000;
+  background: #000000;
+  color: #FC0FC0;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
