@@ -51,13 +51,13 @@ h6 {
 
 .back-to-top i {
   font-size: 28px;
-  color: #fff;
+  color: #000000;
   line-height: 0;
 }
 
 .back-to-top:hover {
-  background: #0678e3;
-  color: #fff;
+  background: #FC0FC0;
+  color: #000000;
 }
 
 .back-to-top.active {
@@ -76,7 +76,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #fff;
+  background: #000000;
 }
 
 #preloader:before {
@@ -84,9 +84,9 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #0563bb;
-  border-top-color: #fff;
-  border-bottom-color: #fff;
+  border: 6px solid #000000;
+  border-top-color: #000000;
+  border-bottom-color: #000000;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -140,8 +140,8 @@ h6 {
 @media (max-width: 991px) {
   #header {
     width: 300px;
-    background: #fff;
-    border-right: 1px solid #e6e9ec;
+    background: #000000;
+    border-right: 1px solid #000000;
     left: -300px;
   }
 }
@@ -178,13 +178,13 @@ h6 {
 .nav-menu a:focus {
   display: flex;
   align-items: center;
-  color: #45505b;
+  color: #FC0FC0;
   padding: 10px 18px;
   margin-bottom: 8px;
   transition: 0.3s;
   font-size: 15px;
   border-radius: 50px;
-  background: #f2f3f5;
+  background: #000000;
   height: 56px;
   width: 100%;
   overflow: hidden;
@@ -199,7 +199,7 @@ h6 {
 .nav-menu a span,
 .nav-menu a:focus span {
   padding: 0 5px 0 7px;
-  color: #45505b;
+  color: #FC0FC0;
 }
 
 @media (min-width: 992px) {
@@ -212,7 +212,7 @@ h6 {
   .nav-menu a span,
   .nav-menu a:focus span {
     display: none;
-    color: #fff;
+    color: FC0FC0;
   }
 }
 
@@ -220,21 +220,21 @@ h6 {
 .nav-menu .active,
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
-  color: #fff;
-  background: #0563bb;
+  color: #FC0FC0;
+  background: #fff;
 }
 
 .nav-menu a:hover span,
 .nav-menu .active span,
 .nav-menu .active:focus span,
 .nav-menu li:hover>a span {
-  color: #fff;
+  color: #FC0FC0;
 }
 
 .nav-menu a:hover,
 .nav-menu li:hover>a {
   width: 100%;
-  color: #fff;
+  color: #FC0FC0;
 }
 
 .nav-menu a:hover span,
@@ -262,7 +262,7 @@ h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #45505b;
+  color: #FC0FC0;
 }
 
 .mobile-nav-active {
@@ -274,8 +274,8 @@ h6 {
 }
 
 .mobile-nav-active .mobile-nav-toggle {
-  color: #fff;
-  background-color: #0563bb;
+  color: #FC0FC0;
+  background-color: #000000;
 }
 
 /*--------------------------------------------------------------
@@ -297,7 +297,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(255, 255, 255, 0.8);
+  background: #FC0FC0(255, 255, 255, 0.8);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -310,18 +310,18 @@ h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #45505b;
+  color: #FC0FC0;
 }
 
 #hero p {
-  color: #45505b;
+  color: #FC0FC0;
   margin: 15px 0 0 0;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
 }
 
 #hero p span {
-  color: #0563bb;
+  color: #FC0FC0;
   letter-spacing: 1px;
 }
 
@@ -332,14 +332,14 @@ h6 {
 #hero .social-links a {
   font-size: 24px;
   display: inline-block;
-  color: #45505b;
+  color: #FC0FC0;
   line-height: 1;
   margin-right: 20px;
   transition: 0.3s;
 }
 
 #hero .social-links a:hover {
-  color: #0563bb;
+  color: #FC0FC0;
 }
 
 @media (max-width: 992px) {
@@ -578,7 +578,7 @@ section {
   border-radius: 50px;
   left: -9px;
   top: 0;
-  background: #fff;
+  background: #000000;
   border: 2px solid #0563bb;
 }
 
@@ -865,16 +865,16 @@ section {
   box-shadow: 0px 0 35px 0 rgba(0, 0, 0, 0.08);
 }
 
-.services .iconbox-blue i {
-  color: #47aeff;
+.services .iconbox-black i {
+  color: #000000;
 }
 
-.services .iconbox-blue:hover .icon i {
-  color: #fff;
+.services .iconbox-black:hover .icon i {
+  color: #000000;
 }
 
-.services .iconbox-blue:hover .icon path {
-  fill: #47aeff;
+.services .iconbox-black:hover .icon path {
+  fill: #000000;
 }
 
 .services .iconbox-orange i {
