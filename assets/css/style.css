@@ -11,6 +11,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #FC0FC0;
+  background: #000000;
 }
 
 a {
@@ -51,7 +52,7 @@ h6 {
 
 .back-to-top i {
   font-size: 28px;
-  color: #000000;
+  color: #FC0FC0;
   line-height: 0;
 }
 
