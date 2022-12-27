@@ -412,6 +412,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about .content h3 {
+  background: #000000;
   font-weight: 700;
   font-size: 26px;
   color: #FC0FC0;
@@ -489,6 +490,7 @@ section {
 # Skills
 --------------------------------------------------------------*/
 .skills .progress {
+  background: #000000;
   height: 60px;
   display: block;
   background: none;
@@ -525,6 +527,7 @@ section {
 # Schedule
 --------------------------------------------------------------*/
 .schedule .schedule-title {
+  background: #000000;
   font-size: 26px;
   font-weight: 700;
   margin-top: 20px;
