@@ -43,7 +43,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #000000;
+  background: #FFC0CB;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -57,8 +57,8 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #FC0FC0;
-  color: #000000;
+  background: #FFC0CB;
+  color: #FC0FC0;
 }
 
 .back-to-top.active {
@@ -185,7 +185,7 @@ h6 {
   transition: 0.3s;
   font-size: 15px;
   border-radius: 50px;
-  background: #000000;
+  background: #FFC0CB;
   height: 56px;
   width: 100%;
   overflow: hidden;
@@ -222,7 +222,7 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   color: #FC0FC0;
-  background: #000000;
+  background: #FFC0CB;
 }
 
 .nav-menu a:hover span,
