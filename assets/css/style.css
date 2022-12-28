@@ -43,7 +43,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #FFC0CB;
+  background: #FC0FC0;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -52,12 +52,12 @@ h6 {
 
 .back-to-top i {
   font-size: 28px;
-  color: #FC0FC0;
+  color: #000000;
   line-height: 0;
 }
 
 .back-to-top:hover {
-  background: #FFC0CB;
+  background: #fff;
   color: #FC0FC0;
 }
 
@@ -221,8 +221,8 @@ h6 {
 .nav-menu .active,
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
-  color: #FC0FC0;
-  background: #000000;
+  color: #000000;
+  background: #FC0FC0;
 }
 
 .nav-menu a:hover span,
