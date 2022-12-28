@@ -222,7 +222,7 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   color: #fff;
-  background: #FF0090;
+  background: #FC0FC0;
 }
 
 .nav-menu a:hover span,
@@ -276,7 +276,7 @@ h6 {
 
 .mobile-nav-active .mobile-nav-toggle {
   color: #fff;
-  background-color: #FF0090;
+  background-color: #FC0FC0;
 }
 
 /*--------------------------------------------------------------
