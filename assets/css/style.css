@@ -222,7 +222,7 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   color: #FC0FC0;
-  background: #FFC0CB;
+  background: #000000;
 }
 
 .nav-menu a:hover span,
