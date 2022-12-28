@@ -52,13 +52,13 @@ h6 {
 
 .back-to-top i {
   font-size: 28px;
-  color: #FC0FC0;
+  color: #fff;
   line-height: 0;
 }
 
 .back-to-top:hover {
-  background: #fff;
-  color: #FC0FC0;
+  background: #FF0090;
+  color: #fff;
 }
 
 .back-to-top.active {
@@ -221,8 +221,8 @@ h6 {
 .nav-menu .active,
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
-  color: #000000;
-  background: #FC0FC0;
+  color: #fff;
+  background: #FF0090;
 }
 
 .nav-menu a:hover span,
