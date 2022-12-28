@@ -57,8 +57,8 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #FF0090;
-  color: #fff;
+  background: #fff;
+  color: #FC0FC0;
 }
 
 .back-to-top.active {
@@ -222,7 +222,7 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   color: #fff;
-  background: #0563bb;
+  background: #FF0090;
 }
 
 .nav-menu a:hover span,
@@ -276,7 +276,7 @@ h6 {
 
 .mobile-nav-active .mobile-nav-toggle {
   color: #fff;
-  background-color: #0563bb;
+  background-color: #FF0090;
 }
 
 /*--------------------------------------------------------------
