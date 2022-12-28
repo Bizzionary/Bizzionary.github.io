@@ -229,13 +229,13 @@ h6 {
 .nav-menu .active span,
 .nav-menu .active:focus span,
 .nav-menu li:hover>a span {
-  color: #000000;
+  color: #fff;
 }
 
 .nav-menu a:hover,
 .nav-menu li:hover>a {
   width: 100%;
-  color: #000000;
+  color: #fff;
 }
 
 .nav-menu a:hover span,
