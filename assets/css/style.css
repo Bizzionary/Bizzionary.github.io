@@ -446,7 +446,7 @@ section {
 }
 
 .about img {
-  border: 3px solid #FC0FC0;
+  border: 2px solid #FC0FC0;
 }
 
 /*--------------------------------------------------------------
@@ -1070,6 +1070,10 @@ section {
 
 .musicvideos .iconbox-teal:hover .icon i {
   color: #fff;
+}
+
+.musicvideos iframe {
+  border: 2px solid #FC0FC0;
 }
 
 /*--------------------------------------------------------------
